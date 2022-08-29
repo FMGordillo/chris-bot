@@ -1,0 +1,16 @@
+{
+  "name": "chris-bot",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "bot.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Facundo Martin Gordillo <facundomgordillo@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "10.6.0",
+    "puppeteer": "17.0.0"
+  }
+}
